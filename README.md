@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mary Bean 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment reveals how Javascript accesses and changes elements in an HTML document. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://marybean.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that in the HTML DOM, all HTML elements are defined as objects. 
+2. I learned that a method is an action you can do. 
+3. I learned that a property is a value you can change or set. 
